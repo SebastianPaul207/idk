@@ -1,0 +1,3 @@
+Headers = {
+        ["IsExploit"] = "true"
+    }
